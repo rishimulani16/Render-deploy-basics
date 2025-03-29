@@ -2,6 +2,7 @@
 
 🚀 **Deployed Project:** Your Student Placement Prediction system is now live! This project predicts whether a student is "Placed" or "Not Placed" based on their academic and skill-based parameters.
 
+**Deployed On Render [(Click To See)](https://render-deploy-basics-2.onrender.com)**
 ---
 
 ## 🎯 **Project Overview**
@@ -39,7 +40,7 @@ The model classifies students into two categories:
 - **Machine Learning (Scikit-Learn, TensorFlow, etc.)** 🤖
 - **Flask / FastAPI** 🌍 (for backend deployment)
 - **HTML, CSS, JavaScript** 🎨 (for frontend UI)
-- **Cloud Deployment (AWS, Heroku, etc.)** ☁️
+- **Cloud Deployment (Render)** ☁️
 
 ---
 
